@@ -50,7 +50,7 @@ with st.container():
             If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
             """
         )
-        st.write("[YouTube Channel >](https://youtube.com/c/CodingIsFun)")
+        st.write("[YouTube Channel >](https://youtube.com)")
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
